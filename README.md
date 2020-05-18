@@ -40,7 +40,7 @@ npm install @cometchat-pro/react-native-chat react-native-cometchat-calling-comp
 or Yarn
 
 ```
-yarn add @cometchat-pro/react-native-chat react-native-cometchat-calling-component@1.2.6 react-native-google-signin@2.0.0 react-native-background-timer@2.1.1 react-native-callstats@3.61.0 react-native-immersive@2.0.0 react-native-keep-awake@4.0.0 react-native-linear-gradient@2.5.6 react-native-sound@0.11.0 react-native-sound@0.11.0 react-native-svg@9.7.1 react-native-svg-transformer@0.13.0 react-native-swipeout@2.3.6 react-native-watch-connectivity@0.2.0 react-native-webrtc@1.75.2 react-native-webview@7.4.1 @react-native-community/netinfo@4.1.5 react-native-calendar-events@github:jitsi/react-native-calendar-events#902e6e92d6bae450a6052f76ba4d02f977ffd8f2
+yarn add @cometchat-pro/react-native-chat@github:trueme-app/react-native-chat-sdk react-native-cometchat-calling-component@1.2.6 react-native-google-signin@2.0.0 react-native-background-timer@2.1.1 react-native-callstats@3.61.0 react-native-immersive@2.0.0 react-native-keep-awake@4.0.0 react-native-linear-gradient@2.5.6 react-native-sound@0.11.0 react-native-sound@0.11.0 react-native-svg@9.7.1 react-native-svg-transformer@0.13.0 react-native-swipeout@2.3.6 react-native-watch-connectivity@0.2.0 react-native-webrtc@1.75.2 react-native-webview@7.4.1 @react-native-community/netinfo@4.1.5 react-native-calendar-events@github:jitsi/react-native-calendar-events#902e6e92d6bae450a6052f76ba4d02f977ffd8f2
 ```
 
 Then, import the `CometChat` object wherever you want to use CometChat
